@@ -8,4 +8,4 @@ Github is a wonderful way to learn skills of data mining following other data sc
 
 This repository is built for Titanic Prediction Task in Kaggle. Welcome any advice from anyone!
 
-Thank for your sharing!
+Thanks for your sharing!
