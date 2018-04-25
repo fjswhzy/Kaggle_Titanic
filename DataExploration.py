@@ -12,4 +12,4 @@ data_path = "train.csv"
 train_data = pd.read_table(data_path, sep=",")
 
 # Data description
-print
+print train_data.describe()
