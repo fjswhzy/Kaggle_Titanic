@@ -8,7 +8,7 @@
 import pandas as pd
 
 # Data import
-data_path = "train.csv"
+data_path = "data/raw/train.csv"
 train_data = pd.read_table(data_path, sep=",")
 
 # Data description
